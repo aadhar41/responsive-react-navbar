@@ -45,7 +45,7 @@ Follow these steps to get the project up and running locally.
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/aadhar41/responsive-react-navbar.git)
    ```
 2. Navigate to the project directory:
    ```bash
